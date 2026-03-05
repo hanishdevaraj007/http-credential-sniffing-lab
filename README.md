@@ -55,7 +55,7 @@ Credentials saved to captured_credentials.txt
 
 ## Lab Demonstration
 
-![Lab Demo](screenshots/lab-demo.jpg)
+![Lab Demo](screenshots/20260305_211908.jpg.jpeg)
 
 ## Key Learning
 
